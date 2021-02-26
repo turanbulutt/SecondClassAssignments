@@ -1,0 +1,3 @@
+﻿  GridSource.cpp
+C:\Users\turan\Desktop\ass4\ass4\GridSource.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ass4.vcxproj -> C:\Users\turan\Desktop\ass4\Debug\ass4.exe
